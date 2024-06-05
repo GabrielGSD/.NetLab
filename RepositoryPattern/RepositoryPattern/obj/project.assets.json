@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projetos .Net\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+      "projectUniqueName": "F:\\Projetos .Net\\.NetLab\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
       "projectName": "RepositoryPattern",
-      "projectPath": "F:\\Projetos .Net\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+      "projectPath": "F:\\Projetos .Net\\.NetLab\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "F:\\Projetos .Net\\RepositoryPattern\\RepositoryPattern\\obj\\",
+      "outputPath": "F:\\Projetos .Net\\.NetLab\\RepositoryPattern\\RepositoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
